@@ -11,4 +11,7 @@ class Student
     @grade = grade
   end 
   
+  def create
+  end 
+  
 end
